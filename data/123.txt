@@ -1,0 +1,1 @@
+{"customerNumber":"123","firstName":"dineth","lastName":"samarashinge","address":"930","city":"Bogaha","province":"Colombo","postal":"10600"}

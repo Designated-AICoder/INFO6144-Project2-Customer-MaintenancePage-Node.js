@@ -1,0 +1,1 @@
+{"customerNumber":"234","firstName":"Rithika","lastName":"Hettiarachchi","address":"930,Bogaha Junction Road, Gothatuwa","city":"a","province":"ss","postal":"12"}
